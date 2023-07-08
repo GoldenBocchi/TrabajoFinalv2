@@ -1,0 +1,48 @@
+body { 
+    background-color: #ffe52c;
+    font-family: 'Nova Slim', cursive;
+}
+
+/*
+header{Z
+}
+*/
+
+.containerInd1{
+    background-color: #faa622;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    width: auto;
+    margin:auto;
+    flex-direction: row;
+    position: relative;
+    justify-content:space-around;
+    
+    border: solid;
+}
+
+.navlogos img{
+    height: auto;
+    width:100px;
+}
+
+.nav1{
+    display: flex;
+    /*flex-direction: row;*/
+    gap: 30px;
+    flex-wrap: wrap;
+
+}
+
+
+.navPadre{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav1 li{
+    display: inline;
+}
+
+
